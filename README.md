@@ -3,10 +3,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="./anhimage/logodnu.webp" alt="DaiNam University Logo" width="200"/>
+  <img src="" alt="DaiNam University Logo" width="200"/>
 </p>
 
-anh/logodnu.webp
+
 
 </div>
 
