@@ -29,7 +29,7 @@
 ---
 ## 🏗️ HỆ THỐNG
 <p align="center">
-  <img src="./anhimage/cbyolov7" alt="System Architecture" width="800"/>
+  <img src="anh/cbyolov7" alt="System Architecture" width="800"/>
 </p>
 
 ---
